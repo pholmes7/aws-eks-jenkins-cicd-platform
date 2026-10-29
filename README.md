@@ -1,4 +1,4 @@
-# aws-eks-jenkins-cicd-platform
+# AWS EKS Platform Engineering | Jenkins CI/CD & Kubernetes Autoscaling
 
 ## Project Overview
 
