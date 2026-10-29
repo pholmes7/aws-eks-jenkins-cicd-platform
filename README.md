@@ -1,4 +1,4 @@
-# DevOps Technical Challenge 2
+# aws-eks-jenkins-cicd-platform
 
 ## Project Overview
 
